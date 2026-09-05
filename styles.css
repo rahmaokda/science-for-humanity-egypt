@@ -271,6 +271,7 @@ section{ position:relative; }
 
 .globe-wrap{ position:relative; }
 .globe-wrap svg{ width:100%; height:auto; }
+.globe-wrap img{ max-width:78%; margin:0 auto; }
 
 /* ============================================================
    LEADERSHIP
